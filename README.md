@@ -1,4 +1,6 @@
-Hi there, I'm Rahul Bobadi
+Hi I'm Rahul Bobadi, An experienced DevSecOps Engineer @ HCL Tech
+
+
 
 Interests
 Python / Shell Scripting
